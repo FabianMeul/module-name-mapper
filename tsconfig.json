@@ -1,0 +1,48 @@
+{
+    "include": [
+        "./src/**/*"
+    ],
+    "exclude": [
+        "./**/*.test.ts"
+    ],
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "commonjs",
+        "importHelpers": true,
+        "forceConsistentCasingInFileNames": true,
+        "removeComments": true,
+        "skipLibCheck": true,
+        "declaration": true,
+        "declarationMap": true,
+        "sourceMap": true,
+        "outDir": "./dist",
+        "strict": true,
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "baseUrl": "./",
+        "paths": {
+            "module-name-mapper": [
+                "./"
+            ],
+            "$main": [
+                "src/index.ts"
+            ],
+            "$components/*": [
+                "src/components/*"
+            ],
+            "$errors": [
+                "src/errors/index.ts"
+            ],
+            "$errors/*": [
+                "src/errors/*"
+            ],
+            "@app/*": [
+                "src/app/*"
+            ]
+        },
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
+    }
+}
