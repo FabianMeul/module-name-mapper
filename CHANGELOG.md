@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/FabianMeul/module-name-mapper/compare/release/v1.0.2...release/v1.0.3) (2021-11-18)
+
+
+### Bug Fixes
+
+* **CI:** Add peerDependencies ([23ac1ec](https://github.com/FabianMeul/module-name-mapper/commit/23ac1ec064a5ee7a04b8ed8dd1eb3173b4d6665a))
+
 ## [1.0.2](https://github.com/FabianMeul/module-name-mapper/compare/release/v1.0.1...release/v1.0.2) (2021-11-18)
 
 
