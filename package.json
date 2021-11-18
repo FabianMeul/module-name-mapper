@@ -12,6 +12,7 @@
   "scripts": {
     "build": "npm run build:clean && parcel build",
     "build:clean": "rimraf \"./dist\"",
+    "prepare": "npm run build",
     "lint": "eslint src",
     "test": "echo \"no test configured\"",
     "example": "npx ts-node example"
@@ -38,6 +39,7 @@
   },
   "homepage": "https://github.com/FabianMeul/module-name-mapper#readme",
   "dependencies": {
+    "module-name-mapper": "^1.0.0",
     "tsconfig": "^7.0.0"
   },
   "devDependencies": {
