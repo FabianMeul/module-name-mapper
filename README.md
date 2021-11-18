@@ -4,7 +4,7 @@ Convert your `tsconfig.json` paths to the most common module name mappers.
 
 ## Installation
 
-Installing touch-outside only takes a single command and you're ready to roll:
+Installing `module-name-mapper` only takes a single command and you're ready to roll:
 
 ```
 # with npm
