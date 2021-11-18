@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/FabianMeul/module-name-mapper/compare/release/v1.0.1...release/v1.0.2) (2021-11-18)
+
+
+### Bug Fixes
+
+* **CI:** Remove self-reference ([a6f1cb1](https://github.com/FabianMeul/module-name-mapper/commit/a6f1cb17c3e085328589bc406023a18f5d32e460))
+
 ## [1.0.1](https://github.com/FabianMeul/module-name-mapper/compare/release/v1.0.0...release/v1.0.1) (2021-11-18)
 
 
