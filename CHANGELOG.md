@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/FabianMeul/module-name-mapper/compare/release/v1.0.0...release/v1.0.1) (2021-11-18)
+
+
+### Bug Fixes
+
+* **CI:** Actually build the library ([db71ca2](https://github.com/FabianMeul/module-name-mapper/commit/db71ca2c08c4c63e5959e61c7a58811147578005))
+
 # 1.0.0 (2021-11-18)
 
 
