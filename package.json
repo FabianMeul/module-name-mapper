@@ -1,6 +1,6 @@
 {
   "name": "module-name-mapper",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Convert your TSConfig paths to the most common module name mappers.",
   "source": "src/index.ts",
   "main": "dist/index.js",
